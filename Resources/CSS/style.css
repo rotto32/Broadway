@@ -1,0 +1,60 @@
+*{
+  font-family: Helvetica, sans-serif;
+  color: white;
+}
+
+
+#top {
+  background-image: url("file:///C://ROttoProjects/Broadway/Resources/Images/flatiron.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+
+h1{
+  font-size: 70px;
+  text-align: center;
+  font-weight: bold;
+}
+
+h2{
+  text-align: center;
+  color:black;
+  font-size: 32px;
+}
+
+.navlinks{
+  font-size: 18px;
+}
+
+img{
+  margin:auto;
+  display:block;
+}
+
+#copyright{
+  color: white;
+  background-color: dimgrey;
+  font-size: 11px;
+  text-align: left;
+}
+
+.details{
+  display: block;
+  text-align: center;
+  color: black;
+  font-size: 14px;
+}
+
+h3{
+  text-align: center;
+  color: black;
+  font-size: 23px;
+}
+
+h4{
+  font-size: 20px;
+  background-image: url("file:///C://ROttoProjects/Broadway/Resources/Images/flatiron.png");
+  text-align:center;
+}
